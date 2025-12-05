@@ -21,10 +21,6 @@ The dataset used contains anonymized member screening records and demographic at
 - SRC_ETHNICITY: Source system–recorded ethnicity.  
 - Zip (5-digit): Member ZIP code.  
 
-## Dashboards
-
-The Power BI report (.pbix) contains multiple dashboards and tooltip pages:
-
 ### Healthcare Analysis Dashboard
 
 - Displays total eligible members, screened members, and unscreened members.  
